@@ -1,45 +1,92 @@
 <h1 align="center">👋 Hi, I'm Sajed Mendoza</h1>
 
-<p align="center">
-  I'm a solo full-stack developer and hardware prototyping enthusiast. <br>
-  I specialize in building practical solutions that bridge <b>software, hardware, and machine learning</b> — from real-time mobile apps to embedded systems.
-</p>
+ <p class="align-center">
+                    Hello! I'm <strong>Sajed Lopez Mendoza</strong>, a multidisciplinary developer based in Quezon
+                    Province,
+                    Philippines.
+                    <br><br>
+                    I started my journey in mobile development and expanded into full-stack web development, machine
+                    learning, and real-time embedded systems.
+                    <br><br>
+                    I'm passionate about building smart, efficient solutions - from interactive dashboards and AI-powered
+                    applications to IoT systems and hardware prototypes.
+                </p>
 
-<hr>
 
-<h2>🌐 Portfolio</h2>
 
-<p>
-  🔗 <a href="https://sajed-mendoza.onrender.com" target="_blank">Check out my portfolio at sajed-mendoza.onrender.com</a>
-</p>
+---
 
-<hr>
+## 🛠️ Technologies
 
-<h2>🧠 What I Do</h2>
+### 💡 Frontend Development
+HTML · CSS · JavaScript · React · Bootstrap · Vue.js
 
-<ul>
-  <li>💻 <b>Web Development:</b> Full-stack apps using FastAPI, Node.js, React, PHP, Laravel, and Firebase</li>
-  <li>📱 <b>Mobile Apps:</b> Android Studio based apps with clean UIs and real-world integrations</li>
-  <li>🤖 <b>Machine Learning:</b> Object detection (YOLO/Tensorflow), sensor-based prediction models</li>
-  <li>⚡ <b>IoT & Electronics:</b> ESP32, Raspberry Pi, touchscreens, sensors, actuators</li>
-  <li>🖥️ <b>Desktop Tools:</b> Python/Tkinter and customTkinter apps for automation and monitoring</li>
-  <li>🧰 <b>Prototyping & Fabrication:</b> Functional hardware builds for practical use</li>
-</ul>
+### 🔧 Backend Development
+PHP (Laravel / Native) · Python (Flask) · Node.js (Express) · Java · .NET · C++ · C# · REST API
 
-<hr>
+### 🧰 Tools / Software
+Android Studio · PyCharm · Visual Studio · VS Code · Arduino IDE · NetBeans  
+EEZ Studio · Nextion Editor · Fusion 360 · Fritzing · RealVNC  
+Label Studio · LabelImg · Thonny IDE
 
-<h2>📬 Connect with Me</h2>
+### 📊 Machine Learning / AI
+YOLO · TensorFlow · PyTorch · scikit-learn  
+Image Segmentation · Face Recognition · OCR · CNN · RNN · Random Forest · Linear Regression
 
-<ul>
-  <li>📧 <strong>Email:</strong> <code>quezon.province.pd@gmail.com</code></li>
-  <li>🐙 <strong>GitHub:</strong> <a href="https://github.com/qppd" target="_blank">github.com/qppd</a></li>
-  <li>🌍 <strong>Website:</strong> <a href="https://sajed-mendoza.onrender.com" target="_blank">sajed-mendoza.onrender.com</a></li>
-  <li>📘 <strong>Facebook:</strong> <a href="https://www.facebook.com/qppd.dev" target="_blank">facebook.com/qppd.dev</a></li>
-  <li>📄 <strong>Facebook Page:</strong> <a href="https://www.facebook.com/QUEZONPROVINCEDEVS" target="_blank">facebook.com/QUEZONPROVINCEDEVS</a></li>
-</ul>
+### ⚡ Microcontrollers & Hardware
+ESP32 / ESP8266 · Arduino · Raspberry Pi  
+Sensors · LCD · Relays · GPS · Custom enclosures · PCB · Solar + Wind setups
 
-<hr>
+### 💽 Databases
+MySQL · SQLite · Firebase · MongoDB
 
-<blockquote>
-  💡 <i>“Build what solves a real problem. If no one else is doing it, you probably should.”</i>
-</blockquote>
+### 🔐 DevOps / Protocols
+SSH · Git · WebSocket
+
+---
+
+## 💼 Experience
+
+### 🔹 Full Stack Developer – ISolve Business Technologies Inc.
+📍 Pasig City | Onsite  
+- Installed & configured GPS tracking on vehicles  
+- Managed Ubuntu servers for real-time monitoring  
+- Built Android apps for GPS tracking  
+- Assisted in web development & conducted app presentations
+
+### 🔹 Android Development Trainer – Infinitech Training Center
+📍 Lucena City | Onsite  
+- Trained students in mobile and 2D game development  
+- Provided mentorship, debugging help, and certification support
+
+### 🔹 Freelance Developer – QPPD (Quezon Province Devs)
+📍 Remote / Project-based  
+- Built full-stack web/mobile/AI projects  
+- Developed embedded systems with ESP32, Pi, Arduino  
+- Installed solar, wind, and battery systems  
+- Fabricated and 3D printed hardware  
+- Performed welding, laptop/phone repair, and PCB integration
+
+---
+
+## 👨‍💻 About Me
+
+- 🧠 Strong foundation in mobile, embedded, and AI
+- 🛠 Loves building functional tools and physical devices
+- 🏡 Based in Unisan, Quezon Province
+- ☀️ Solar & wind power hobbyist
+- 🎯 Always exploring new tech and real-world problems to solve
+
+---
+
+## 📬 Contact
+
+- 📧 Email: `quezon.province.pd@gmail.com`
+- 🐙 GitHub: [github.com/qppd](https://github.com/qppd)
+- 🌐 Website: [sajed-mendoza.onrender.com](https://sajed-mendoza.onrender.com)
+- 📘 Facebook: [facebook.com/qppd.dev](https://facebook.com/qppd.dev)
+- 📄 Facebook Page: [facebook.com/QUEZONPROVINCEDEVS](https://facebook.com/QUEZONPROVINCEDEVS)
+
+---
+
+> 💡 *"Build what solves a real problem. If no one else is doing it, you probably should."*
