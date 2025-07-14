@@ -9,9 +9,6 @@
 </p>
 
 ---
-
-## 🛠️ Technologies
-
 ### 💡 Frontend Development
 HTML · CSS · JavaScript · React · Bootstrap · Vue.js
 
