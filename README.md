@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sajed Mendoza</h1>
 
  <p class="align-center">
-                    Hello! I'm <strong>Sajed Lopez Mendoza</strong>, a multidisciplinary developer based in Quezon
+                    Im a multidisciplinary developer based in Quezon
                     Province,
                     Philippines.
                     <br><br>
