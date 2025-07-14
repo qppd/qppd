@@ -77,7 +77,3 @@ SSH · Git · WebSocket
 - 🌐 Website: [sajed-mendoza.onrender.com](https://sajed-mendoza.onrender.com)
 - 📘 Facebook: [facebook.com/qppd.dev](https://facebook.com/qppd.dev)
 - 📄 Facebook Page: [facebook.com/QUEZONPROVINCEDEVS](https://facebook.com/QUEZONPROVINCEDEVS)
-
----
-
-> 💡 *"Build what solves a real problem. If no one else is doing it, you probably should."*
