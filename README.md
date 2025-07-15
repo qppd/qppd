@@ -22,7 +22,7 @@ Label Studio · LabelImg · Thonny IDE
 
 ### 📊 Machine Learning / AI
 YOLO · TensorFlow · PyTorch · scikit-learn  
-Image Segmentation · Face Recognition · OCR · CNN · RNN · Random Forest · Linear Regression
+Object Detection, Segmentation · Face Recognition · OCR · CNN · RNN · Random Forest · Linear Regression
 
 ### ⚡ Microcontrollers & Hardware
 ESP32 / ESP8266 · Arduino · Raspberry Pi  
@@ -39,7 +39,7 @@ SSH · Git · WebSocket
 ## 💼 Experience
 
 ### 🔹 Full Stack Developer – ISolve Business Technologies Inc.
-📍 Pasig City | Onsite  
+📍 Pasig City | Onsite
 - Installed & configured GPS tracking on vehicles  
 - Managed Ubuntu servers for real-time monitoring  
 - Built Android apps for GPS tracking  
@@ -50,8 +50,8 @@ SSH · Git · WebSocket
 - Trained students in mobile and 2D game development  
 - Provided mentorship, debugging help, and certification support
 
-### 🔹 Freelance Developer – QPPD (Quezon Province Devs)
-📍 Remote / Project-based  
+### 🔹 Freelance Developer – QPPD (Quezon Province Programmers/Developers)
+📍 Remote | Project-based | 2017-Present
 - Built full-stack web/mobile/AI projects  
 - Developed embedded systems with ESP32, Pi, Arduino  
 - Installed solar, wind, and battery systems  
