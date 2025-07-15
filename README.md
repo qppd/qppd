@@ -70,6 +70,12 @@ SSH · Git · WebSocket
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qppd&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 📬 Contact
 
 - 📧 Email: `quezon.province.pd@gmail.com`
