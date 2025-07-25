@@ -26,7 +26,7 @@ Object Detection, Segmentation · Face Recognition · OCR · CNN · RNN · Rando
 
 ### ⚡ Microcontrollers & Hardware
 ESP32 / ESP8266 · Arduino · Raspberry Pi  
-Sensors · LCD · Relays · GPS · Custom enclosures · PCB · Solar + Wind setups
+Sensors · LCD · Relays · GPS · Custom parts & enclosures · PCB · Solar + Wind setups
 
 ### 💽 Databases
 MySQL · SQLite · Firebase · MongoDB
