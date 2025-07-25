@@ -82,6 +82,6 @@ SSH · Git · WebSocket
 
 - 📧 Email: `quezon.province.pd@gmail.com`
 - 🐙 GitHub: [github.com/qppd](https://github.com/qppd)
-- 🌐 Website: [sajed-mendoza.onrender.com](https://sajed-mendoza.onrender.com)
+- 🌐 Portfolio: [sajed-mendoza.onrender.com](https://sajed-mendoza.onrender.com)
 - 📘 Facebook: [facebook.com/qppd.dev](https://facebook.com/qppd.dev)
 - 📄 Facebook Page: [facebook.com/QUEZONPROVINCEDEVS](https://facebook.com/QUEZONPROVINCEDEVS)
