@@ -9,49 +9,90 @@
 </p>
 
 ---
+
 ### 💡 Frontend Development
-HTML · CSS · JavaScript · React · Bootstrap · Vue.js
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+</p>
 
 ### 🔧 Backend Development
-PHP (Laravel / Native) · Python (Flask) · Node.js (Express) · Java · .NET · C++ · C# · REST API
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white"/>
+</p>
 
 ### 🧰 Tools / Software
-Android Studio · PyCharm · Visual Studio · VS Code · Arduino IDE · NetBeans  
-EEZ Studio · Nextion Editor · Fusion 360 · Fritzing · RealVNC  
-Label Studio · LabelImg · Thonny IDE
+<p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fusion%20360-F29305?style=for-the-badge&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+</p>
 
 ### 📊 Machine Learning / AI
-YOLO · TensorFlow · PyTorch · scikit-learn  
-Object Detection, Segmentation · Face Recognition · OCR · CNN · RNN · Random Forest · Linear Regression
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00BCD4?style=for-the-badge&logo=YOLO&logoColor=white"/>
+</p>
 
 ### ⚡ Microcontrollers & Hardware
-ESP32 / ESP8266 · Arduino · Raspberry Pi  
-Sensors · LCD · Relays · GPS · Custom parts & enclosures · PCB · Solar + Wind setups
+<p>
+  <img src="https://img.shields.io/badge/ESP32-3C5280?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
 
 ### 💽 Databases
-MySQL · SQLite · Firebase · MongoDB
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ### 🔐 DevOps / Protocols
-SSH · Git · WebSocket
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=OpenSSH&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-00BFFF?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 💼 Experience
 
 ### 🔹 Full Stack Developer – ISolve Business Technologies Inc.
-📍 Pasig City | Onsite
+📍 Pasig City | Onsite  
 - Installed & configured GPS tracking on vehicles  
 - Managed Ubuntu servers for real-time monitoring  
 - Built Android apps for GPS tracking  
 - Assisted in web development & conducted app presentations
 
-### 🔹 Android Development Trainer – Infinitech Training Center
+### 🔹 Android Development Trainer – Infinitech Training Center  
 📍 Lucena City | Onsite  
 - Trained students in mobile and 2D game development  
 - Provided mentorship, debugging help, and certification support
 
-### 🔹 Freelance Developer – QPPD (Quezon Province Programmers/Developers)
-📍 Remote | Project-based | 2017-Present
+### 🔹 Freelance Developer – QPPD (Quezon Province Programmers/Developers)  
+📍 Remote | Project-based | 2017-Present  
 - Built full-stack web/mobile/AI projects  
 - Developed embedded systems with ESP32, Pi, Arduino  
 - Installed solar, wind, and battery systems  
@@ -62,10 +103,10 @@ SSH · Git · WebSocket
 
 ## 👨‍💻 About Me
 
-- 🧠 Strong foundation in mobile, embedded, and AI
-- 🛠 Loves building functional tools and physical devices
-- 🏡 Based in Unisan, Quezon Province
-- ☀️ Solar & wind power hobbyist
+- 🧠 Strong foundation in mobile, embedded, and AI  
+- 🛠 Loves building functional tools and physical devices  
+- 🏡 Based in Unisan, Quezon Province  
+- ☀️ Solar & wind power hobbyist  
 - 🎯 Always exploring new tech and real-world problems to solve
 
 ---
@@ -80,8 +121,8 @@ SSH · Git · WebSocket
 
 ## 📬 Contact
 
-- 📧 Email: `quezon.province.pd@gmail.com`
-- 🐙 GitHub: [github.com/qppd](https://github.com/qppd)
-- 🌐 Portfolio: [sajed-mendoza.onrender.com](https://sajed-mendoza.onrender.com)
-- 📘 Facebook: [facebook.com/qppd.dev](https://facebook.com/qppd.dev)
+- 📧 Email: `quezon.province.pd@gmail.com`  
+- 🐙 GitHub: [github.com/qppd](https://github.com/qppd)  
+- 🌐 Portfolio: [sajed-mendoza.onrender.com](https://sajed-mendoza.onrender.com)  
+- 📘 Facebook: [facebook.com/qppd.dev](https://facebook.com/qppd.dev)  
 - 📄 Facebook Page: [facebook.com/QUEZONPROVINCEDEVS](https://facebook.com/QUEZONPROVINCEDEVS)
