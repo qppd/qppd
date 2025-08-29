@@ -4,7 +4,7 @@
   I'm a multidisciplinary developer based in Quezon Province, Philippines.<br>
   I started my journey in mobile development and expanded into full-stack web development,<br>
   machine learning, and real-time embedded systems.<br><br>
-  I'm passionate about building smart, efficient solutions — from interactive dashboards and<br>
+  I'm passionate about building smart, efficient solutions - from interactive dashboards and<br>
   AI-powered applications to IoT systems and hardware prototypes.
 </p>
 
