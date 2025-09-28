@@ -79,7 +79,7 @@
 
 ## 💼 Experience
 
-### 🔹 Full Stack Developer – Key Solution Inc.
+### 🔹 Full Stack Developer – Key Solutions Inc.
 📍 Pasig City | Onsite  
 - Installed & configured GPS tracking on vehicles  
 - Managed Ubuntu servers for real-time monitoring  
