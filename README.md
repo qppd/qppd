@@ -79,7 +79,7 @@
 
 ## 💼 Experience
 
-### 🔹 Full Stack Developer – ISolve Business Technologies Inc.
+### 🔹 Full Stack Developer – Key Solution Inc.
 📍 Pasig City | Onsite  
 - Installed & configured GPS tracking on vehicles  
 - Managed Ubuntu servers for real-time monitoring  
