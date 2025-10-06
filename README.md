@@ -117,6 +117,7 @@
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=qppd&theme=tokyo-night&hide_border=true&area=true" /> </p>
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=qppd&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8" /> </p>
+
 ---
 
 ## 📬 Contact
