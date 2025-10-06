@@ -153,14 +153,6 @@
 
 ---
 
-### ✨ Profile Metrics (Optional)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/qppd/qppd/main/github-metrics.svg" alt="Metrics" width="75%">
-</p>
-
----
-
 ## 📬 Contact
 
 - 📧 Email: `quezon.province.pd@gmail.com`  
