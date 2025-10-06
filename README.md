@@ -112,10 +112,7 @@
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qppd&layout=compact&theme=tokyonight" />
-</p>
+<p align="center"> <!-- Overall Stats --> <img src="https://github-readme-stats.vercel.app/api?username=qppd&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="180em" /> <!-- Top Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="180em" /> </p> <p align="center"> <!-- Streak Stats --> <img src="https://streak-stats.demolab.com?user=qppd&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF" height="180em" /> </p>
 
 ---
 
