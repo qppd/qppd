@@ -1,6 +1,4 @@
-<h1 align="center">GUYSSSSS SUSPENDED ACCOUNT KO SA FACEBOOK CALL ME: 09634905586 / 09612936212</h1>
-
-<h1 align="center">👋 Hi, I'm Sajed Mendoza</h1>
+<h1 align="center">Hi, I'm Sajed Mendoza</h1>
 
 <p align="center">
   I'm a multidisciplinary developer based in Quezon Province, Philippines.<br>
@@ -12,7 +10,7 @@
 
 ---
 
-### 💡 Frontend Development
+### Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -22,7 +20,7 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </p>
 
-### 🔧 Backend Development
+### Backend Development
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -37,7 +35,7 @@
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white"/>
 </p>
 
-### 🧰 Tools / Software
+### Tools / Software
 <p>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
@@ -47,7 +45,7 @@
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
 </p>
 
-### 📊 Machine Learning / AI
+### Machine Learning / AI
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -55,14 +53,14 @@
   <img src="https://img.shields.io/badge/YOLO-00BCD4?style=for-the-badge&logo=YOLO&logoColor=white"/>
 </p>
 
-### ⚡ Microcontrollers & Hardware
+### Microcontrollers & Hardware
 <p>
   <img src="https://img.shields.io/badge/ESP32-3C5280?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
-### 💽 Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -70,7 +68,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🔐 DevOps / Protocols
+### DevOps / Protocols
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=OpenSSH&logoColor=white"/>
@@ -79,7 +77,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### 🔹 Full Stack Developer – Key Solutions Inc.
 📍 Pasig City | Onsite  
@@ -103,17 +101,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🧠 Strong foundation in mobile, embedded, and AI  
-- 🛠 Loves building functional tools and physical devices  
-- 🏡 Based in Unisan, Quezon Province  
-- ☀️ Solar & wind power hobbyist  
-- 🎯 Always exploring new tech and real-world problems to solve
+ Strong foundation in mobile, embedded, and AI  
+ Loves building functional tools and physical devices  
+ Based in Unisan, Quezon Province  
+ Solar & wind power hobbyist  
+ Always exploring new tech and real-world problems to solve
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img 
@@ -135,7 +133,7 @@
 
 ---
 
-### ⚙️ Activity Graph
+### Activity Graph
 
 <p align="center">
   <img 
@@ -145,7 +143,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img 
@@ -155,7 +153,7 @@
 
 ---
 
-## 📬 Contact
+## Contact
 
 - 📧 Email: `quezon.province.pd@gmail.com`  
 - 🐙 GitHub: [github.com/qppd](https://github.com/qppd)  
