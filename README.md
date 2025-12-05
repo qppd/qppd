@@ -115,11 +115,11 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=qppd&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"
+    src="https://github-readme-stats.vercel.app/api?username=qppd&show_icons=true&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"
     height="180em"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=8&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF"
     height="180em"
   />
 </p>
@@ -150,6 +150,7 @@
     src="https://github-profile-trophy.vercel.app/?username=qppd&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8"
   />
 </p>
+
 
 ---
 
