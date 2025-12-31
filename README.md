@@ -114,12 +114,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=qppd&show_icons=true&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=qppd&show_icons=true&theme=tokyonight"
     height="180em"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=8&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=8&theme=tokyonight"
     height="180em"
   />
 </p>
