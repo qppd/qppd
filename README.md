@@ -115,11 +115,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=qppd&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-blue-six-43.vercel.app/api?username=qppd&show_icons=true&theme=tokyonight"
     height="180em"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=8&theme=tokyonight"
+    src="https://github-readme-stats-blue-six-43.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=8&theme=tokyonight"
     height="180em"
   />
 </p>
