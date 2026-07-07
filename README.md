@@ -149,7 +149,7 @@
 ## Let's Connect
 
 <p align="center">
-  <a href="https://sajed-lopez-mendoza.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://sajed-mendoza.is-pinoy.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/qppd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://facebook.com/qppd.dev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://facebook.com/QUEZONPROVINCEDEVS"><img src="https://img.shields.io/badge/QPPD%20Page-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
