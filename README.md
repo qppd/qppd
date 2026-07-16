@@ -117,6 +117,37 @@
 
 ## GitHub Analytics
 
+### GitHub Stats Extended (github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app)
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app/api?username=qppd&show_icons=true&theme=tokyonight&border_radius=10&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented" height="180em" alt="qppd's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=10&theme=tokyonight&border_radius=10" height="180em" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app/api/top-langs/?username=qppd&layout=donut&langs_count=8&theme=tokyonight&border_radius=10" height="180em" alt="Top Languages Donut"/>
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app/api/top-langs/?username=qppd&layout=pie&langs_count=8&theme=tokyonight&border_radius=10" height="180em" alt="Top Languages Pie"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app/api?username=qppd&show_icons=true&theme=radical&border_radius=10&show=reviews,discussions_started,discussions_answered" height="180em" alt="GitHub Stats Radical Theme"/>
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app/api?username=qppd&show_icons=true&theme=transparent&border_radius=10" height="180em" alt="GitHub Stats Transparent"/>
+  </a>
+</p>
+
+### Original github-readme-stats
+
 <p align="center">
   <img src="https://github-readme-stats-ia1i9s82l-qppds-projects.vercel.app/api?username=qppd&show_icons=true&theme=tokyonight&border_radius=10" height="180em"/>
   <img src="https://github-readme-stats-ia1i9s82l-qppds-projects.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" height="180em"/>
