@@ -15,7 +15,7 @@
 <p align="center">
   I'm a developer based in <b>Quezon Province, Philippines</b> 🇵🇭<br>
   I started in mobile development and expanded into full-stack web, machine learning,<br>
-  and real-time embedded systems. I love building smart solutions — from interactive<br>
+  and real-time embedded systems. I love building smart solutions — from interactive
   dashboards and AI-powered apps to IoT hardware and renewable energy setups.
 </p>
 
@@ -117,54 +117,74 @@
 
 ## GitHub Analytics
 
-### GitHub Stats Extended
+<!-- Responsive light/dark stats card — uses GitHub's prefers-color-scheme media feature -->
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=qppd&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&rank_icon=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=qppd&show_icons=true&theme=default&border_radius=10&include_all_commits=true&rank_icon=github" height="200em" alt="Sajed's GitHub Stats (auto light/dark)" />
+  </picture>
+</p>
 
-[![Sajed's GitHub stats](https://github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app/api?username=qppd)](https://github.com/stats-organization/github-stats-extended)
+<!-- Full stats card with extended metrics -->
+[![Sajed's GitHub stats — extended](https://github-stats-extended.vercel.app/api?username=qppd&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented)](https://github.com/stats-organization/github-stats-extended)
+
+<!-- Stats variants -->
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=qppd&show_icons=true&theme=radical&border_radius=10&include_all_commits=true&rank_icon=percentile" height="180em" alt="GitHub Stats — Radical theme (percentile rank)"/>
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=qppd&show_icons=true&theme=transparent&border_radius=10&include_all_commits=true" height="180em" alt="GitHub Stats — Transparent theme"/>
+  </a>
+</p>
+
+### Top Languages
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app/api?username=qppd&show_icons=true&theme=tokyonight&border_radius=10&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented" height="180em" alt="qppd's GitHub Stats"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" height="180em" alt="Top Languages — Compact"/>
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=10&theme=tokyonight&border_radius=10" height="180em" alt="Top Languages"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=qppd&layout=donut&langs_count=8&theme=tokyonight&border_radius=10" height="180em" alt="Top Languages — Donut"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app/api/top-langs/?username=qppd&layout=donut&langs_count=8&theme=tokyonight&border_radius=10" height="180em" alt="Top Languages Donut"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=qppd&layout=pie&langs_count=8&theme=tokyonight&border_radius=10" height="180em" alt="Top Languages — Pie"/>
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app/api/top-langs/?username=qppd&layout=pie&langs_count=8&theme=tokyonight&border_radius=10" height="180em" alt="Top Languages Pie"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=qppd&layout=donut-vertical&langs_count=8&theme=tokyonight&border_radius=10" height="180em" alt="Top Languages — Donut Vertical"/>
   </a>
 </p>
 
+### Pinned Repositories
+
+<!-- Extra pins — uses stats-extended api/pin endpoint, supports repos beyond GitHub's 6-pin limit -->
+<a href="https://github.com/qppd/robo-sort">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=qppd&repo=robo-sort&theme=tokyonight&border_radius=10&show_owner=true" />
+</a>
+<a href="https://github.com/qppd/Meduino">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=qppd&repo=Meduino&theme=tokyonight&border_radius=10&show_owner=true" />
+</a>
+<a href="https://github.com/qppd/smart-road-alert">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=qppd&repo=smart-road-alert&theme=tokyonight&border_radius=10&show_owner=true" />
+</a>
+<a href="https://github.com/qppd/wmldad">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=qppd&repo=wmldad&theme=tokyonight&border_radius=10&show_owner=true" />
+</a>
+
+### Streak & Activity
+
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app/api?username=qppd&show_icons=true&theme=radical&border_radius=10&show=reviews,discussions_started,discussions_answered" height="180em" alt="GitHub Stats Radical Theme"/>
-  </a>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app/api?username=qppd&show_icons=true&theme=transparent&border_radius=10" height="180em" alt="GitHub Stats Transparent"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=qppd&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF" height="180em" alt="GitHub Streak Stats"/>
 </p>
 
-### Original github-readme-stats
-
 <p align="center">
-  <img src="https://github-readme-stats-ia1i9s82l-qppds-projects.vercel.app/api?username=qppd&show_icons=true&theme=tokyonight&border_radius=10" height="180em"/>
-  <img src="https://github-readme-stats-ia1i9s82l-qppds-projects.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=qppd&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qppd&theme=tokyo-night&hide_border=true&area=true&radius=8" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qppd&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&row=2&column=4"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qppd&theme=tokyo-night&hide_border=true&area=true&radius=8" width="95%" alt="Contribution Activity Graph"/>
 </p>
 
 ---
