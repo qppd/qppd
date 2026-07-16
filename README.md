@@ -128,36 +128,11 @@
   </picture>
 </p>
 
-<!-- Full stats card with extended metrics -->
-[![Sajed's GitHub stats — extended](https://github-stats-extended.vercel.app/api?username=qppd&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented)](https://github.com/stats-organization/github-stats-extended)
-
-<!-- Stats variants -->
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=qppd&show_icons=true&theme=radical&border_radius=10&include_all_commits=true&rank_icon=percentile" height="180em" alt="GitHub Stats — Radical theme (percentile rank)"/>
-  </a>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=qppd&show_icons=true&theme=transparent&border_radius=10&include_all_commits=true" height="180em" alt="GitHub Stats — Transparent theme"/>
-  </a>
-</p>
-
 ### Top Languages
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" height="180em" alt="Top Languages — Compact"/>
-  </a>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=qppd&layout=donut&langs_count=8&theme=tokyonight&border_radius=10" height="180em" alt="Top Languages — Donut"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=qppd&layout=pie&langs_count=8&theme=tokyonight&border_radius=10" height="180em" alt="Top Languages — Pie"/>
-  </a>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=qppd&layout=donut-vertical&langs_count=8&theme=tokyonight&border_radius=10" height="180em" alt="Top Languages — Donut Vertical"/>
   </a>
 </p>
 
