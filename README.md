@@ -118,8 +118,8 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-blue-six-43.vercel.app/api?username=qppd&show_icons=true&theme=tokyonight&border_radius=10" height="180em"/>
-  <img src="https://github-readme-stats-blue-six-43.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" height="180em"/>
+  <img src="https://github-readme-stats-ia1i9s82l-qppds-projects.vercel.app/api?username=qppd&show_icons=true&theme=tokyonight&border_radius=10" height="180em"/>
+  <img src="https://github-readme-stats-ia1i9s82l-qppds-projects.vercel.app/api/top-langs/?username=qppd&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" height="180em"/>
 </p>
 
 <p align="center">
