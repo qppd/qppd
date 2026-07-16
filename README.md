@@ -117,7 +117,9 @@
 
 ## GitHub Analytics
 
-### GitHub Stats Extended (github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app)
+### GitHub Stats Extended
+
+[![Sajed's GitHub stats](https://github-stats-extended-frontend-2zsi4297h-qppds-projects.vercel.app/api?username=qppd)](https://github.com/stats-organization/github-stats-extended)
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
