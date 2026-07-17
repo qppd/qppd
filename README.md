@@ -9,7 +9,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+%26+Embedded+Engineer;Machine+Learning+Enthusiast;IoT+%26+Hardware+Hobbyist;Solar+%26+Wind+Power+Tinkerer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Machine+Learning;AI+Agents;Computer+Vision;Virtual+Assistant;Web+Development;Mobile+Development;Apps+Development;3D+modeling;3D+printing;Fabrication;Electronics;Automation;Building+intelligent+solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
